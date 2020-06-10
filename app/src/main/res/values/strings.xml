@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CondominioIntegracao</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_menu_principal">MenuPrincipal</string>
+    <string name="title_activity_dsadas">dsadas</string>
+    <string name="title_activity_reunioes_cond">ReunioesCond</string>
+    <string name="title_activity_recados_cond">RecadosCond</string>
+    <string name="title_activity_consultas_cond">ConsultasCond</string>
+    <string name="title_activity_verifica_consulta">VerificaConsulta</string>
+    <string name="title_activity_confirma_cpf">ConfirmaCPF</string>
+    <string name="title_activity_menu_morador">MenuMorador</string>
+    <string name="title_activity_menu_administrador">MenuAdministrador</string>
+    <string name="title_activity_login_admin">LoginAdmin</string>
+    <string name="title_activity_adm_encomenda">AdmEncomenda</string>
+    <string name="title_activity_cadastro_apto">CadastroApto</string>
+    <string name="title_activity_cadastro_funcionario">CadastroFuncionario</string>
+    <string name="title_activity_cadastro_reunioes">CadastroReunioes</string>
+    <string name="title_activity_cadastro_recados">CadastroRecados</string>
+</resources>
